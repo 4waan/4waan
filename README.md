@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ethereum Protocol studies and Blockchain infra in rust.<br>🤝 I’m looking forward to building new systems and learning them from scratch.<br>
+🔭 I’m currently working on Ethereum Protocol studies and Blockchain infra in rust.<br>🤝 I’m looking forward to building new systems and learning them from scratch.<br> ✨ Studying and am deeply interested in Cryptography and ZK!
 
 
 ## 🌐 Socials:
