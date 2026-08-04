@@ -1,17 +1,32 @@
 # 💫 About Me:
-🔭 I’m currently working on Ethereum Protocol studies and Blockchain infra in rust.<br>🤝 I’m looking forward to building new systems and learning them from scratch.<br> ✨ Studying and am deeply interested in Cryptography and ZK!
+🔭 I’m currently working on Cryptographic developments under **Ethereum**.<br>🤝 I’m observing implementations from scratch and working on improving performances.<br> ✨ Lately I've been going deep on zero-knowledge proof systems, with some security research on the side!
 
+### Selected contributions
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/awaan-siddiqui-19017027b) 
+| Project | Contribution | |
+|---|---|---|
+| [revm](https://github.com/bluealloy/revm) | [BLS12-381 pairing via a fused multi-Miller loop](https://github.com/bluealloy/revm/pull/3823) | `merged` |
+| [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [`ExactSizeEncoder` for `WitnessEncoder`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6428) | `merged` |
+| [revm](https://github.com/bluealloy/revm) | [Reformulate KZG verify to drop the G2 scalar mul (EIP-4844)](https://github.com/bluealloy/revm/pull/3836) | `open` |
+| [aurora-engine](https://github.com/aurora-is-near/aurora-engine) | [modexp — windowed Montgomery exponentiation](https://github.com/aurora-is-near/aurora-engine/pull/1188) | `open` |
+| [revm](https://github.com/bluealloy/revm) | [blake2 compression — unroll portable rounds, const-fold the schedule](https://github.com/bluealloy/revm/pull/3840) | `open` |
+| [revm](https://github.com/bluealloy/revm) | [Bytecode tests — `InvalidMagic`](https://github.com/bluealloy/revm/pull/3806) | `merged` |
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=4wn51dq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=4wn51dq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4wn51dq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<sub>→ <a href="https://github.com/search?q=is%3Apr+author%3A4waan&type=pullrequests">every PR I've opened</a></sub>
+
+### Toolbox
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Stats
+
+![Awaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=4waan&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=4wn51dq&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/awaan-siddiqui-19017027b)
 
