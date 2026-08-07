@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cryptographic developments under **Ethereum**.<br>🤝 I’m observing implementations from scratch and working on improving performances.<br> ✨ Lately I've been going deep on zero-knowledge proof systems, with some security research on the side!
+🔭 I’m currently working on Cryptographic developments in **evm** & **zkvm**s.<br>🤝 I’m observing implementations from scratch and working on improving performances.<br> ✨ Lately I've been going deep on zero-knowledge proof systems, with some security research on the side. <br> 🧩 Love doing maths! 
 
 ### Selected contributions
 
