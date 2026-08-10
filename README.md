@@ -12,8 +12,6 @@
 | [revm](https://github.com/bluealloy/revm) | [blake2 compression — unroll portable rounds, const-fold the schedule](https://github.com/bluealloy/revm/pull/3840) | `open` |
 | [revm](https://github.com/bluealloy/revm) | [Bytecode tests — `InvalidMagic`](https://github.com/bluealloy/revm/pull/3806) | `merged` |
 
-<sub>→ <a href="https://github.com/search?q=is%3Apr+author%3A4waan&type=pullrequests">every PR I've opened</a></sub>
-
 ### Toolbox
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
