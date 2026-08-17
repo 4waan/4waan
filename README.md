@@ -7,7 +7,7 @@
 |---|---|---|
 | [revm](https://github.com/bluealloy/revm) | [BLS12-381 pairing via a fused multi-Miller loop](https://github.com/bluealloy/revm/pull/3823) | `merged` |
 | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [`ExactSizeEncoder` for `WitnessEncoder`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6428) | `merged` |
-| [revm](https://github.com/bluealloy/revm) | [Reformulate KZG verify to drop the G2 scalar mul (EIP-4844)](https://github.com/bluealloy/revm/pull/3836) | `open` |
+| [revm](https://github.com/bluealloy/revm) | [Reformulate KZG verify to drop the G2 scalar mul (EIP-4844)](https://github.com/bluealloy/revm/pull/3836) | `merged` |
 | [aurora-engine](https://github.com/aurora-is-near/aurora-engine) | [modexp — windowed Montgomery exponentiation](https://github.com/aurora-is-near/aurora-engine/pull/1188) | `open` |
 | [revm](https://github.com/bluealloy/revm) | [blake2 compression — unroll portable rounds, const-fold the schedule](https://github.com/bluealloy/revm/pull/3840) | `open` |
 | [revm](https://github.com/bluealloy/revm) | [Bytecode tests — `InvalidMagic`](https://github.com/bluealloy/revm/pull/3806) | `merged` |
