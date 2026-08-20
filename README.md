@@ -13,6 +13,7 @@
 | [revm](https://github.com/bluealloy/revm) | [Bytecode tests — `InvalidMagic`](https://github.com/bluealloy/revm/pull/3806) | `merged` |
 | [gnark-crypto](https://github.com/Consensys/gnark-crypto) | [ecc - compute slope directly in affine Add and double](https://github.com/Consensys/gnark-crypto/pull/873) | `open` |
 | [gnark-crypto](https://github.com/Consensys/gnark-crypto) | [fq12 - branch DecompressKarabina on g3 instead of g5](https://github.com/Consensys/gnark-crypto/pull/874) | `open` |
+| [algebra](https://github.com/arkworks-rs/algebra) | [ec - interleaved wNAF5 to replace 2bit GLV joint window](https://github.com/arkworks-rs/algebra/pull/1133) | `open` |
 
 ### Toolbox
 
