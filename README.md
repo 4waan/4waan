@@ -7,10 +7,12 @@
 |---|---|---|
 | [revm](https://github.com/bluealloy/revm) | [BLS12-381 pairing via a fused multi-Miller loop](https://github.com/bluealloy/revm/pull/3823) | `merged` |
 | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [`ExactSizeEncoder` for `WitnessEncoder`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6428) | `merged` |
-| [revm](https://github.com/bluealloy/revm) | [Reformulate KZG verify to drop the G2 scalar mul (EIP-4844)](https://github.com/bluealloy/revm/pull/3836) | `merged` |
+| [revm](https://github.com/bluealloy/revm) | [Reformulate KZG verify to drop the G2 scalar mul (EIP-4844)](https://github.com/bluealloy/revm/pull/3836) | `open` |
 | [aurora-engine](https://github.com/aurora-is-near/aurora-engine) | [modexp — windowed Montgomery exponentiation](https://github.com/aurora-is-near/aurora-engine/pull/1188) | `merged` |
-| [revm](https://github.com/bluealloy/revm) | [blake2 compression — unroll portable rounds, const-fold the schedule](https://github.com/bluealloy/revm/pull/3840) | `open` |
+| [revm](https://github.com/bluealloy/revm) | [blake2 compression — unroll portable rounds, const-fold the schedule](https://github.com/bluealloy/revm/pull/3840) | `merged` |
 | [revm](https://github.com/bluealloy/revm) | [Bytecode tests — `InvalidMagic`](https://github.com/bluealloy/revm/pull/3806) | `merged` |
+| [gnark-crypto](https://github.com/Consensys/gnark-crypto) | [ecc - compute slope directly in affine Add and double](https://github.com/Consensys/gnark-crypto/pull/873) | `open` |
+| [gnark-crypto](https://github.com/Consensys/gnark-crypto) | [fq12 - branch DecompressKarabina on g3 instead of g5](https://github.com/Consensys/gnark-crypto/pull/874) | `open` |
 
 ### Toolbox
 
