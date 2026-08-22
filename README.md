@@ -14,7 +14,7 @@
 | [gnark-crypto](https://github.com/Consensys/gnark-crypto) | [ecc - compute slope directly in affine Add and double](https://github.com/Consensys/gnark-crypto/pull/873) | `open` |
 | [gnark-crypto](https://github.com/Consensys/gnark-crypto) | [fq12 - branch DecompressKarabina on g3 instead of g5](https://github.com/Consensys/gnark-crypto/pull/874) | `open` |
 | [algebra](https://github.com/arkworks-rs/algebra) | [ec - interleaved wNAF5 to replace 2bit GLV joint window](https://github.com/arkworks-rs/algebra/pull/1133) | `open` |
-| [gnark-crypto](https://github.com/Consensys/gnark-crypto) | [break multiexp window ties towards larger window](https://github.com/Consensys/gnark-crypto/pull/875) | `draft` |
+| [gnark-crypto](https://github.com/Consensys/gnark-crypto) | [break multiexp window ties towards larger window](https://github.com/Consensys/gnark-crypto/pull/875) | `open` |
 | [go-eth-kzg](https://github.com/crate-crypto/go-eth-kzg) | [parallelising fk20 across multi exponentials](https://github.com/crate-crypto/go-eth-kzg/pull/145) | `open` |
 
 ### Toolbox
