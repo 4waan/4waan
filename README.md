@@ -10,6 +10,7 @@
 | [revm](https://github.com/bluealloy/revm) | [Reformulate KZG verify to drop the G2 scalar mul (EIP-4844)](https://github.com/bluealloy/revm/pull/3836) | `open` |
 | [aurora-engine](https://github.com/aurora-is-near/aurora-engine) | [modexp — windowed Montgomery exponentiation](https://github.com/aurora-is-near/aurora-engine/pull/1188) | `merged` |
 | [aurora-engine](https://github.com/aurora-is-near/aurora-engine) | [modexp - build the window table as far as it is used](https://github.com/aurora-is-near/aurora-engine/pull/1200) | `merged` |
+| [aurora-engine](https://github.com/aurora-is-near/aurora-engine) | [synchronise solidity artifact compilation](https://github.com/aurora-is-near/aurora-engine/pull/1201) | `merged` |
 | [revm](https://github.com/bluealloy/revm) | [blake2 compression — unroll portable rounds, const-fold the schedule](https://github.com/bluealloy/revm/pull/3840) | `merged` |
 | [revm](https://github.com/bluealloy/revm) | [Bytecode tests — `InvalidMagic`](https://github.com/bluealloy/revm/pull/3806) | `merged` |
 | [gnark-crypto](https://github.com/Consensys/gnark-crypto) | [ecc - compute slope directly in affine Add and double](https://github.com/Consensys/gnark-crypto/pull/873) | `open` |
