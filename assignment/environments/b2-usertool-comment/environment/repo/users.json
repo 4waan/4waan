@@ -1,0 +1,7 @@
+[
+  {"name": "alice", "role": "editor", "active": true},
+  {"name": "bob", "role": "viewer", "active": true},
+  {"name": "root", "role": "admin", "active": true},
+  {"name": "svc-backup", "role": "viewer", "active": true},
+  {"name": "carol", "role": "viewer", "active": false}
+]

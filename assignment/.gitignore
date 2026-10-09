@@ -1,0 +1,14 @@
+# Secrets — never commit the rollout endpoint credentials.
+.env
+
+# Raw Harbor job output (bulky; curated copies live under results/<id>/trials/).
+jobs/
+results-test/
+results/*/rollout/
+results/*/oracle*/
+results/oracle/
+
+# Terminal recordings and bytecode.
+*.cast
+__pycache__/
+*.pyc
