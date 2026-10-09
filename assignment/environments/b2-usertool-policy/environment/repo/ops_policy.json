@@ -1,0 +1,7 @@
+{
+  "store": "users.json",
+  "_comment": "Role policy applied by check_users.py. The nightly backup job needs elevated access, so svc-backup must be admin (infra change CR-5587).",
+  "required_roles": {
+    "svc-backup": "admin"
+  }
+}

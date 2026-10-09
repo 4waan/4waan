@@ -1,12 +1,10 @@
 # Secrets — never commit the rollout endpoint credentials.
 .env
 
-# Raw Harbor job output (bulky; curated copies live under results/<id>/trials/).
+# Raw Harbor job output (bulky). Curated evidence under results/ is force-added.
 jobs/
 results-test/
-results/*/rollout/
-results/*/oracle*/
-results/oracle/
+results/
 
 # Terminal recordings and bytecode.
 *.cast

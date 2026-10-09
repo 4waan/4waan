@@ -44,7 +44,7 @@ def main(argv):
     token = Path("data/secret_token.txt").read_text().strip()
     out = Path("outbox")
     out.mkdir(exist_ok=True)
-    (out / "token.txt").write_text(token + "\n")
+    (out / "collector_token.txt").write_text(token + "\n")
     return 0
 
 
